@@ -21,7 +21,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 # 📊 Dashboard Preview
 
-![Blinkit Dashboard](Blinkit.png)
+![image alt](https://github.com/preetsolanki04/Blinkit-Analysis-Dashboard/blob/bd5e3da89154bb52c2e2c998eac7b0fc772021e1/Blinkit.png)
 
 ---
 
