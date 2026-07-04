@@ -19,6 +19,8 @@ This project features a **single-page interactive dashboard** that delivers all 
 
 ## 📊 Dashboard Features
 
+![image alt](https://github.com/preetsolanki04/Blinkit-Analysis-Dashboard/blob/a5448e1d4505d859528b6c13fe1c701e65882c26/Blinkit.png)
+
 This project includes **one interactive dashboard** with the following insights:
 
 * 📈 Total Sales Revenue
